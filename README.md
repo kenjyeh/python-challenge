@@ -13,4 +13,6 @@ Screenshot of budget report:
 Used Python to parsed through data from [Poll Data](PyBank/Resources/election_data.csv). I used a python to generate ratios for candidates and the winning candidate in poll data. An elections result text file is produced at the end.
 
 Screenshot of election results:
+
+
 ![Image of PyPoll](image/PyPoll.JPG)
